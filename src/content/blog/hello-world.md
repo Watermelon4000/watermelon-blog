@@ -2,7 +2,7 @@
 title: '你好，世界！'
 description: '这是我的第一篇博客文章，由 OpenClaw 自动发布。'
 pubDate: '2026-02-02'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 ## 欢迎来到我的博客
