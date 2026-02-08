@@ -2,7 +2,6 @@
 title: '像动物一样，给自己一段“什么都不做”的时间'
 description: '像动物一样，给自己一段“什么都不做”的时间'
 pubDate: '2024-08-07'
-heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
 最近睡前有个习惯，学点英语催眠自己，没想到真的会睡得很香。

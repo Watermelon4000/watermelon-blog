@@ -2,7 +2,6 @@
 title: '从心流到幸福的四步'
 description: '从心流到幸福的四步'
 pubDate: '2025-09-29'
-heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 为什么有些时刻我们忙得要死却感到空虚，而另一些时刻我们虽然还在做事，但整个人却被一种轻盈和专注包围，甚至感到幸福？

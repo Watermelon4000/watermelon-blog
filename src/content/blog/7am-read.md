@@ -2,7 +2,6 @@
 title: '我的七点计划：在阅读、数学与桩功中日拱一卒'
 description: '我的七点计划：在阅读、数学与桩功中日拱一卒'
 pubDate: '2024-09-30'
-heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 **时区:** 广州，中国大陆

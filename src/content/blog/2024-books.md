@@ -2,7 +2,6 @@
 title: '今年没干什么事，就是看书'
 description: '今年没干什么事，就是看书'
 pubDate: '2025-01-28'
-heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 回想这一年，好像没做什么特别的大事，主要就是看书了😊。

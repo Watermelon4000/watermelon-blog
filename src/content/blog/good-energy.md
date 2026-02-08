@@ -2,7 +2,6 @@
 title: '《Good Energy》读后感：成为自己健康的第一责任人'
 description: '《Good Energy》读后感：成为自己健康的第一责任人'
 pubDate: '2025-02-19'
-heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 我们每天吃进去的这几斤“药”，究竟会对身体产生什么样的影响？

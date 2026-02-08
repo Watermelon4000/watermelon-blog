@@ -2,7 +2,6 @@
 title: '一個能泡好茶的人，壞不到哪裡去'
 description: '一個能泡好茶的人，壞不到哪裡去'
 pubDate: '2025-08-28'
-heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 > 「一個能泡好茶的人，壞不到哪裡去。」

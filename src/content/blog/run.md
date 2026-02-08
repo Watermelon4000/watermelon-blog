@@ -2,7 +2,6 @@
 title: 'Just F*cking Run：致跑步新手，这是你唯一需要的第一课'
 description: 'Just F*cking Run：致跑步新手，这是你唯一需要的第一课'
 pubDate: '2025-07-03'
-heroImage: '../../assets/blog-placeholder-5.jpg'
 ---
 
 ## 核心理念：别想了，「Just F*cking Run」
